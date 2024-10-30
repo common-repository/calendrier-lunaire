@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moon Calendar Widget v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-08-14 14:32:21+0000\n"
+"Last-Translator: guillaume <guillaume@publigo.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: moon-calendar-widget.php:0
+#@ moon-calendar-locale
+msgid "Moon Calendar Widget"
+msgstr "Moon Calendar Widget"
+
+#. translators: plugin header field 'Author'
+#: moon-calendar-widget.php:0
+#@ moon-calendar-locale
+msgid "Calendrier-Lunaire.fr"
+msgstr "Calendrier-Lunaire.fr"
+
+#. translators: plugin header field 'AuthorURI'
+#: moon-calendar-widget.php:0
+#@ moon-calendar-locale
+msgid "http://www.calendrier-lunaire.fr/"
+msgstr "http://www.calendrier-lunaire.fr/"
+
+#. translators: plugin header field 'Version'
+#: moon-calendar-widget.php:0
+#@ moon-calendar-locale
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: moon-calendar-widget.php:73
+#: moon-calendar-widget.php:74
+#@ moon-calendar-locale
+msgid "Calendrier Lunaire, jardiner avec la lune : phases, éphémérides, éclipses..."
+msgstr "Moon calendar, gardening with the moon : moon phases, moon rise/set times, eclipse..."
+
+#: moon-calendar-widget.php:117
+#@ moon-calendar-locale
+msgid "Français"
+msgstr "French"
+
+#: moon-calendar-widget.php:118
+#@ moon-calendar-locale
+msgid "Anglais"
+msgstr "English"
+
+#: moon-calendar-widget.php:124
+#@ moon-calendar-locale
+msgid "Large (215 x 360 px)"
+msgstr "Big (215 x 360 px)"
+
+#: moon-calendar-widget.php:125
+#@ moon-calendar-locale
+msgid "Réduit (170 x 300 px)"
+msgstr "Small (170 x 300 px)"
+
+#: moon-calendar-widget.php:115
+#@ moon-calendar-locale
+msgid "Langue d'affichage :"
+msgstr "Display language:"
+
+#: moon-calendar-widget.php:122
+#@ moon-calendar-locale
+msgid "Format :"
+msgstr "Size:"
+
+#: moon-calendar-widget.php:129
+#@ moon-calendar-locale
+msgid "Couleur du texte :"
+msgstr "Font color:"
+
+#: moon-calendar-widget.php:133
+#@ moon-calendar-locale
+msgid "Couleur de fond :"
+msgstr "Background color:"
+
+#: moon-calendar-widget.php:137
+#@ moon-calendar-locale
+msgid "Couleur de la bordure :"
+msgstr "Border color:"
+
+#. translators: plugin header field 'Description'
+#: moon-calendar-widget.php:0
+#: moon-calendar-widget.php:41
+#@ moon-calendar-locale
+msgid "Display the moon calendar of the day (moon phases, moon rise/set times, ...)"
+msgstr "Display the moon calendar of the day (moon phases, moon rise/set times, ...)"
+
